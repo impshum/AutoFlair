@@ -69,3 +69,6 @@ Would be
 Edit to your liking and add it to your CSS stylesheet. You can use the same class for all flairs if you like.
 
 ![](https://recycledrobot.co.uk/reddit_git.jpg)
+
+
+I accept tips via BTC 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
