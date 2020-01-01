@@ -47,22 +47,6 @@ def insert_row(conn, author, subreddit, test_mode, level):
     return str(level)
 
 
-def read_db(conn):
-    cur = conn.cursor()
-    cur.execute("SELECT * FROM autoflair")
-    rows = cur.fetchall()
-    for row in rows:
-        print(row)
-
-
-def sql_init():
-    conn = db_connect()
-    # create_table(conn)
-    #insert_row(conn, 'impshum', 'python', False, 1)
-    read_db(conn)
-    #search_db(conn, 'author', 'impshum')
-
-
 def main():
     config = configparser.ConfigParser()
     config.read('conf.ini')
@@ -125,4 +109,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    #sql_init()
