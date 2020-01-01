@@ -4,7 +4,7 @@
 
 Streams Reddit, counts submissions and assigns different flairs depending on score.
 
-![](ss.jpg)
+![](https://github.com/impshum/AutoFlair/blob/master/ss.jpg?raw=true)
 
 ### Features
 
