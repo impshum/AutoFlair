@@ -72,4 +72,4 @@ Edit to your liking and add it to your CSS stylesheet. You can use the same clas
 
 --- 
 
-BTC 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
