@@ -1,5 +1,3 @@
-![](https://recycledrobot.co.uk/reddit_git.jpg)
-
 ## AutoFlair
 
 Streams Reddit, counts submissions and assigns different flairs depending on score.
@@ -69,3 +67,5 @@ Would be
     }
 
 Edit to your liking and add it to your CSS stylesheet. You can use the same class for all flairs if you like.
+
+![](https://recycledrobot.co.uk/reddit_git.jpg)
