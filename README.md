@@ -70,6 +70,6 @@ Edit to your liking and add it to your CSS stylesheet. You can use the same clas
 
 ![](https://recycledrobot.co.uk/reddit_git.jpg)
 
---- 
+### Tip
 
 BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
